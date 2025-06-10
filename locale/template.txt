@@ -1,0 +1,6 @@
+# textdomain: height_limit
+
+# Messages
+Nuh Uh.=
+Nope!=
+Sorry, but you cannot place higher than @1 blocks!=

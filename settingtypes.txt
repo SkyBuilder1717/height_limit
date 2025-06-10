@@ -1,0 +1,10 @@
+# Do you want to limit the height of building?
+# Try this! (Specified in blocks)
+height_limit (Height Limit) int 310
+
+# If enabled, players will not be able to place blocks from mod "mesecons" near the height limit
+height_limit_mesecons (Deny Mesecons) bool true
+
+# How close players cannot place blocks from "mesecons" mod near the height limit.
+# Specified in blocks.
+height_limit_mesecons_close (Close Mesecons to Height limit) int 20
