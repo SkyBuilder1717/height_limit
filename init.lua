@@ -107,6 +107,6 @@ core.register_chatcommand("set_height_limit", {
         cfg.build_limit = limit
         save_limit(limit)
         core.chat_send_all(S("Build limit updated to @1 by @2", limit, name))
-        return true, S("New limit set to @1 (saved permanently)", limit)
+        return true, S("New limit set to @1 blocks (saved permanently)", limit)
     end
 })
