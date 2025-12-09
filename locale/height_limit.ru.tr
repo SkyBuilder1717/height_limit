@@ -1,6 +1,15 @@
 # textdomain: height_limit
 
+# ContentDB
+Height Limit=Лимит Высоты
+Adds height limit for servers.=Добавляет лимит высоты для серверов.
+
 # Messages
-Nuh Uh.=Не-а.
-Nope!=Нет!
-Sorry, but you cannot place higher than @1 blocks!=Извините, но вы не можете ставить выше, чем @1 блоков!
+Nope!=Никак нет!
+Nuh uh.=Не-а.
+Not here!=Не здесь!
+Sorry, but you cannot place higher than @1 blocks!=Извините, но вы не можете ставить выше чем @1 блоков!
+Invalid value. Usage: /set_height_limit <number>=Неправильное значение. Использование: /set_height_limit <число>
+Set a new height limit for building.=Задаёт новый лимит высоты строительства.
+Build limit updated to @1 by @2=Лимит высоты обновлён на @1 игроком @2
+New limit set to @1 blocks (saved permanently)=Новый лимит задан на @1 блоков (сохранено навечно)

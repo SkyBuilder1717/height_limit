@@ -1,5 +1,9 @@
 # textdomain: height_limit
 
+# ContentDB
+Height Limit=
+Adds height limit for servers.=
+
 # Messages
 Nope!=No!
 Nuh uh.=Nuh uh.
