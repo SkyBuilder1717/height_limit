@@ -1,6 +1,11 @@
 # textdomain: height_limit
 
 # Messages
-Nuh Uh.=
 Nope!=
+Nuh uh.=
+Not here!=
 Sorry, but you cannot place higher than @1 blocks!=
+Invalid value. Usage: /set_height_limit <number>=
+Set a new height limit for building.=
+Build limit updated to @1 by @2=
+New limit set to @1 blocks (saved permanently)=

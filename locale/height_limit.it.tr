@@ -1,0 +1,11 @@
+# textdomain: height_limit
+
+# Messages
+Nope!=No!
+Nuh uh.=Nuh uh.
+Not here!=Non qui!
+Sorry, but you cannot place higher than @1 blocks!=Mi dispiace, ma non puoi costruire oltre @1 blocchi!
+Invalid value. Usage: /set_height_limit <number>=Valore non valido. Uso corretto: /set_height_limit <numero>
+Set a new height limit for building.=Imposta un nuovo limite di altezza per costruire.
+Build limit updated to @1 by @2=Limite di costruzione aggiornato a @1 da @2
+New limit set to @1 blocks (saved permanently)=Nuovo limite impostato a @1 blocchi (salvato in modo permanente)
